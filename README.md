@@ -96,18 +96,43 @@ This dataset provides valuable insights for analyzing road accidents, identifyin
 
 ![graph1](https://github.com/bichakshansahu/Road_accident_analysis/assets/140845849/f11807e6-1eba-48a2-998c-1e3711acb03c)
 
+The most common casualty severity type is fatal accidents. To address this issue, analysing road accident data can aid in formulating strategies such as improving infrastructure design, enforcing stricter traffic regulations, enhancing driver education, implementing effective emergency response protocols, and conducting public awareness campaigns about road safety.
 
+# Ask 2:
 
+![graph2](https://github.com/bichakshansahu/Road_accident_analysis/assets/140845849/354c6262-1d11-4dd7-b251-ce48e3bc989b)
 
+Based on the data provided in the graph, it is evident that the age band of 20-45 (young adults) experiences a higher frequency of severe casualty accidents. To address this issue, potential measures could include targeted educational campaigns for young drivers, stricter enforcement of traffic laws, improved road infrastructure in areas frequented by this age group, and promoting responsible driving behaviours through public awareness initiatives. These efforts aim to reduce the occurrence of severe accidents and enhance overall road safety for young adults.
 
+# Ask 3:
 
+![graph3](https://github.com/bichakshansahu/Road_accident_analysis/assets/140845849/ae56d525-7c05-4d11-982e-85e57e77d91d)
 
+Based on the data presented in the graph, it is evident that males are not only experiencing a higher number of accidents but also encountering greater casualty severity. To address this gender-specific trend, targeted safety initiatives could include gender-sensitive road safety education programs, tailored enforcement strategies, and awareness campaigns that address risk factors more prevalent among males, such as aggressive driving behaviours. By addressing these factors, we can work towards reducing both the frequency and severity of accidents among males and promoting safer road practices overall.
 
+# Ask 4:
 
+![graph4](https://github.com/bichakshansahu/Road_accident_analysis/assets/140845849/f4968357-4fe3-419c-ae12-43091ab0aafc)
 
+Based on the depicted graph, it is evident that drivers experience a higher incidence of casualty severity accidents compared to passengers and pedestrians. To address this discrepancy, targeted safety measures could include promoting defensive driving courses and raising awareness about distracted driving among drivers. Furthermore, focusing on improved seatbelt usage and airbag technology could enhance passenger safety. For pedestrians, enhancing crosswalks, implementing speed reduction measures near pedestrian-heavy areas, and conducting education campaigns could contribute to reducing their vulnerability. By tailoring safety initiatives to the specific roles of drivers, passengers, and pedestrians, we can mitigate the impact of severe accidents and bolster road safety overall.
 
+# Ask 5:
 
+![graph5](https://github.com/bichakshansahu/Road_accident_analysis/assets/140845849/5b4b1164-2a20-419f-898e-6bca38228eb9)
 
+Based on the provided graph, it is evident that males are experiencing a higher frequency of accidents compared to females. To address this gender-based trend, targeted interventions could include gender-specific road safety education programs focusing on risk awareness and safe driving practices for males. Additionally, campaigns addressing aggressive driving behaviours and promoting responsible driving choices among males could contribute to reducing the accident rate. By tailoring safety initiatives to address the specific concerns associated with male drivers, we can work towards narrowing the gender gap in accident occurrences and promoting safer road behaviour overall.
+
+# Ask 6:
+
+![graph6](https://github.com/bichakshansahu/Road_accident_analysis/assets/140845849/27006a5e-b161-434b-a921-7bd2036c8ff0)
+
+Based on the graph provided, it is evident that individuals in the age group of 18-35, often referred to as young adults, are experiencing a higher incidence of accidents compared to other age groups. To address this issue, targeted safety measures could involve enhancing driving education for this age group, emphasising the risks associated with distracted driving, speeding, and other common causes of accidents. Implementing stricter enforcement of traffic laws and promoting the use of advanced driver assistance systems (ADAS) could also contribute to reducing accidents among young adults. By tailoring safety initiatives to address the specific characteristics and behaviours of this age group, we can strive to mitigate the frequency of accidents and improve road safety for everyone.
+
+# Ask 7:
+
+![graph7](https://github.com/bichakshansahu/Road_accident_analysis/assets/140845849/400f67e1-a5c4-46c8-ae26-4abb0ac6a766)
+
+The above graph shows correlations between factors.
 
 
 
